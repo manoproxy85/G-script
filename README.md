@@ -1,3 +1,5 @@
-# G-script server discord
+### G script server discord
 
-```https://discord.gg/z6wugWn2Gy```
+```discord
+https://discord.gg/z6wugWn2Gy
+```
